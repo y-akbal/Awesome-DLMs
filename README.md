@@ -846,6 +846,9 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [6 Feb 2026] [Diffusion-State Policy Optimization for Masked Diffusion Language Models](https://arxiv.org/abs/2602.06462)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06462)
 
+[9 Feb 2026] [Efficient and Stable Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2602.08905)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08905)
+
 [2 Feb 2026] [AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?](https://arxiv.org/abs/2602.02178)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02178)
 [![Star](https://img.shields.io/github/stars/AMAP-ML/AR-MAP.svg?style=social&label=Star)](https://github.com/AMAP-ML/AR-MAP)
@@ -904,6 +907,8 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 
 [27 Sep 2025] [A2D: Any-Order, Any-Step Safety Alignment for Diffusion Language Models](https://arxiv.org/abs/2509.23286v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23286v1)
+
+[18 Sep 2025] [DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://openreview.net/forum?id=ckUU5XySLn) (ICLR 2026 submission)<br>
 
 [12 Sep 2025] [Inpainting-Guided Policy Optimization for Diffusion Large Language Models](https://arxiv.org/abs/2509.10396)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.10396)
