@@ -61,6 +61,20 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/dlms-are-super-data-learners)
 [![Star](https://img.shields.io/github/stars/JinjieNi/dlms-are-super-data-learners.svg?style=social&label=Star)](https://github.com/JinjieNi/dlms-are-super-data-learners)
 
+JustGRPO: [The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.15165)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://nzl-thu.github.io/the-flexibility-trap/)
+[![Star](https://img.shields.io/github/stars/LeapLabTHU/JustGRPO.svg?style=social&label=Star)](https://github.com/LeapLabTHU/JustGRPO)
+
+d1: [Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12216)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dllm-reasoning.github.io/)
+[![Star](https://img.shields.io/github/stars/dllm-reasoning/d1.svg?style=social&label=Star)](https://github.com/dllm-reasoning/d1)
+
+DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639) (ICLR 2026)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.20639)
+[![Star](https://img.shields.io/github/stars/apple/ml-diffucoder.svg?style=social&label=Star)](https://github.com/apple/ml-diffucoder)
+
 
 [LLaDA2.0: Scaling Up Diffusion Language Models to 100B](https://arxiv.org/abs/2512.15745)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.15745)
@@ -1653,6 +1667,4 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
   year={2025}
 }
 ```
-
-
 
