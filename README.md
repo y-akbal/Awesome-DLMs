@@ -895,8 +895,8 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09541v2)
 [![Star](https://img.shields.io/github/stars/facebookresearch/SPG.svg?style=social&label=Star)](https://github.com/facebookresearch/SPG)
 
-[5 Oct 2025] [Principled and Tractable RL for Reasoning with Diffusion Language Models](https://arxiv.org/abs/2510.04019v1)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04019v1)
+[5 Oct 2025] [Simple Policy Gradients for Reasoning with Diffusion Language Models](https://arxiv.org/abs/2510.04019)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04019)
 
 [2 Oct 2025] [Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2510.01544)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01544)
@@ -1667,4 +1667,3 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
   year={2025}
 }
 ```
-
