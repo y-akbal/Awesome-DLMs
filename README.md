@@ -1,6 +1,6 @@
 # Awesome Diffusion Language Models 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![](https://img.shields.io/github/last-commit/VILA-Lab/Awesome-DLMs?color=green)
+![](https://img.shields.io/github/last-commit/y-akbal/Awesome-DLMs?color=green)
 [![https://arxiv.org/abs/2508.10875](https://img.shields.io/badge/2508.10875-Arxiv-red?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2508.10875)
 
 One of the most starred, comprehensive and up-to-date collections of Diffusion Language Model papers, code and resources! If you find this repository helpful, please consider giving it a ⭐ to support.
@@ -282,8 +282,7 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [31 Oct 2025] [Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning](https://arxiv.org/abs/2510.27469v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.27469v1)
 
-[30 Oct 2025] [Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation](https://arxiv.org/abs/2510.26200v1)
-<br>
+[30 Oct 2025] [Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation](https://arxiv.org/abs/2510.26200v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.26200v1)
 
 
@@ -310,8 +309,7 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13117v1)
 
 
-[12 Oct 2025] [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481v1)
-<br>
+[12 Oct 2025] [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.10481v1)
 [![Star](https://img.shields.io/github/stars/Relaxed-System-Lab/UltraLLaDA.svg?style=social&label=Star)](https://github.com/Relaxed-System-Lab/UltraLLaDA)
 
@@ -345,8 +343,7 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [3 Oct 2025] [DMark: Order-Agnostic Watermarking for Diffusion Large Language Models](https://www.arxiv.org/abs/2510.02902)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2510.02902)
 
-[1 Oct 2025] [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2510.01329)
-<br>
+[1 Oct 2025] [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2510.01329)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01329)
 
 [30 Sep 2025] [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488)<br>
@@ -356,8 +353,7 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [29 Sep 2025] [Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03289v1)
 
-[29 Sep 2025] [DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models](https://arxiv.org/abs/2509.24296v1)
-<br>
+[29 Sep 2025] [DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models](https://arxiv.org/abs/2509.24296v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24296v1)
 [![Star](https://img.shields.io/github/stars/niez233/DiffuGuard.svg?style=social&label=Star)](https://github.com/niez233/DiffuGuard)
 
@@ -1628,7 +1624,7 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01735)
 [![Star](https://img.shields.io/github/stars/hpzhang94/DiffuSum.svg?style=social&label=Star)](https://github.com/hpzhang94/DiffuSum)
 
-[7 Jan 2023] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)<br>
+[7 Jan 2024] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03514)
 
 ## Resources
@@ -1638,8 +1634,8 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM)
 [![Star](https://img.shields.io/github/stars/pengzhangzhi/Open-dLLM.svg?style=social&label=Star)](https://github.com/pengzhangzhi/Open-dLLM)
 
-[bansky-cl/diffusion-nlp-paper-arxiv](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) 
- [![Star](https://img.shields.io/github/stars/bansky-cl/diffusion-nlp-paper-arxiv?style=social)](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv)
+[bansky-cl/diffusion-nlp-paper-arxiv](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv)
+[![Star](https://img.shields.io/github/stars/bansky-cl/diffusion-nlp-paper-arxiv?style=social)](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv)
 
 [bansky-cl/Diffusion-LM-Papers](https://github.com/bansky-cl/Diffusion-LM-Papers) [![Star](https://img.shields.io/github/stars/bansky-cl/Diffusion-LM-Papers?style=social)](https://github.com/bansky-cl/Diffusion-LM-Papers)
 
@@ -1661,7 +1657,7 @@ DiffuCoder: [Understanding and Improving Masked Diffusion Models for Code Genera
 [![Arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.17298)
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VILA-Lab/Awesome-DLMs&type=Date)](https://www.star-history.com/#VILA-Lab/Awesome-DLMs&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=y-akbal/Awesome-DLMs&type=Date)](https://www.star-history.com/#y-akbal/Awesome-DLMs&Date)
 
 ## Citation
 ```
